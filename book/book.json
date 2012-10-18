@@ -1,0 +1,23 @@
+{
+    "hpub": 1,
+    "title": "Blank Multi Issue Starter",
+    "author": ["Numosh"],
+    "creator": ["Numosh Spotsdigital"],
+    "date": "2012-01-01",
+    "url": "book://numosh.com/spotsdigital/",
+
+    "orientation": "both",
+    "zoomable": false,
+
+    "-baker-background": "#000000",
+    "-baker-vertical-bounce": true,
+    "-baker-index-height": 202,
+    "-baker-media-autoplay": true,
+    "-baker-background-image-portrait": "book/gfx/background-portrait.png",
+    "-baker-background-image-landscape": "book/gfx/background-landscape.png",
+    "-baker-page-numbers-color": "#000000",
+
+    "contents": [
+        "Book Cover.html"
+    ]
+}

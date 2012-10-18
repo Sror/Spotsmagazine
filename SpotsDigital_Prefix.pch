@@ -1,0 +1,12 @@
+//
+// Prefix header for all source files of the 'Baker' target in the 'Baker' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+// iOS5 detector
+#define isOS5() \
+([[[UIDevice currentDevice] systemVersion] floatValue]>=5.0)
